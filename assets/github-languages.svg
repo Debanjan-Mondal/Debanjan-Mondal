@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="245" viewBox="0 0 620 245">
+<rect width="100%" height="100%" rx="12" fill="#1a1b27" stroke="#414868"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c0caf5" font-weight="700">Languages across owned repositories</text>
+<line x1="24" y1="48" x2="596" y2="48" stroke="#414868"/>
+<rect x="24.00" y="70" width="190.67" height="12" rx="3" fill="#7aa2f7"/>
+<rect x="214.67" y="70" width="127.11" height="12" rx="3" fill="#9ece6a"/>
+<rect x="341.78" y="70" width="63.56" height="12" rx="3" fill="#e0af68"/>
+<rect x="405.33" y="70" width="63.56" height="12" rx="3" fill="#bb9af7"/>
+<rect x="468.89" y="70" width="63.56" height="12" rx="3" fill="#f7768e"/>
+<rect x="532.44" y="70" width="63.56" height="12" rx="3" fill="#2ac3de"/>
+<circle cx="30" cy="108" r="4" fill="#7aa2f7"/>
+<text x="43" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">Dart</text>
+<text x="560" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">33.3%</text>
+<circle cx="30" cy="130" r="4" fill="#9ece6a"/>
+<text x="43" y="134" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">Python</text>
+<text x="560" y="134" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">22.2%</text>
+<circle cx="30" cy="152" r="4" fill="#e0af68"/>
+<text x="43" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">HTML</text>
+<text x="560" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">11.1%</text>
+<circle cx="30" cy="174" r="4" fill="#bb9af7"/>
+<text x="43" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">Java</text>
+<text x="560" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">11.1%</text>
+<circle cx="30" cy="196" r="4" fill="#f7768e"/>
+<text x="43" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">JavaScript</text>
+<text x="560" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">11.1%</text>
+<circle cx="30" cy="218" r="4" fill="#2ac3de"/>
+<text x="43" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9" font-weight="400">CSS</text>
+<text x="560" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6" font-weight="400">11.1%</text>
+</svg>
