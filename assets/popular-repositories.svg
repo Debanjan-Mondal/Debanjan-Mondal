@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="265" viewBox="0 0 620 265">
+<rect width="100%" height="100%" rx="12" fill="#1a1b27" stroke="#414868"/>
+<text x="24" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c0caf5" font-weight="700">Popular Public Repositories</text>
+<line x1="24" y1="48" x2="596" y2="48" stroke="#414868"/>
+<text x="24" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7aa2f7" font-weight="700">react-weather-app</text>
+<text x="24" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9b1d6" font-weight="400">No description provided</text>
+<text x="445" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c0caf5" font-weight="400">★ 3   Forks 3</text>
+<text x="24" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7aa2f7" font-weight="700">UCST</text>
+<text x="24" y="133" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9b1d6" font-weight="400">No description provided</text>
+<text x="445" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c0caf5" font-weight="400">★ 0   Forks 0</text>
+<text x="24" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7aa2f7" font-weight="700">MLRT</text>
+<text x="24" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9b1d6" font-weight="400">No description provided</text>
+<text x="445" y="152" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c0caf5" font-weight="400">★ 0   Forks 0</text>
+<text x="24" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7aa2f7" font-weight="700">Debanjan-Mondal</text>
+<text x="24" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9b1d6" font-weight="400">No description provided</text>
+<text x="445" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c0caf5" font-weight="400">★ 0   Forks 0</text>
+<text x="24" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#7aa2f7" font-weight="700">Flutter-WebView-Covid-19-Tracker-Mobile-Application</text>
+<text x="24" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#a9b1d6" font-weight="400">The Easiest Method to develop a Flutter Covid-19 Tracker Ap...</text>
+<text x="445" y="222" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#c0caf5" font-weight="400">★ 0   Forks 0</text>
+</svg>
